@@ -1,0 +1,1 @@
+cd, dir, rd, copy, del, ren, text
