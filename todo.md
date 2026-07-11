@@ -1,1 +1,1 @@
-cd, dir, rd, copy, del, ren, text
+rn, copy, ren, text
