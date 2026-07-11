@@ -1,1 +1,0 @@
-rn, copy, ren, text
