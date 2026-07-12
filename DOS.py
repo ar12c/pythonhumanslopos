@@ -181,7 +181,7 @@ Commands = {
     "dir": dir,
     "rn": rn,
     "copy": copy,
-    "text": text,
+    "text": print("Coming soon"),
 }
 
 ## super cool main interface totally no malware
